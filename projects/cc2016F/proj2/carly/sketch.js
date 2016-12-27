@@ -19,7 +19,7 @@ function setup() {
 
 function draw() {
   background(255);
-  lights();
+  //lights();
   var newcolor = avgcolor();
   push();
   translate(270, 50, 0);
