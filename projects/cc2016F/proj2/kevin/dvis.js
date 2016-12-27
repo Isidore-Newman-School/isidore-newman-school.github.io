@@ -32,7 +32,7 @@ function init() {
 	proto[a].attribnum = 0;
   }
   for(var p = 0; p < samplesize; p++) {
-	  people[p] = new Blob(bodo);	  
+	  people[p] = new Blob(bodo);
 	  people[p].getdata();
   }
 }
@@ -94,7 +94,7 @@ function Blob(r) {
 				append(types, this.attributes[stratify]);
 				//people[l].color[0] = this.color[0];
 			}
-			if(abs((this.movestats[0] + 5) - (people[l].movestats[0] + 5)) < diam / 1.5 && abs((this.movestats[1] + 5) - (people[l].movestats[1] + 5)) < diam/1.5) {	
+			if(abs((this.movestats[0] + 5) - (people[l].movestats[0] + 5)) < diam / 1.5 && abs((this.movestats[1] + 5) - (people[l].movestats[1] + 5)) < diam/1.5) {
 				this.movestats[2] -= (people[l].movestats[0] - this.movestats[0]) / (diam);
 				this.movestats[3] -= (people[l].movestats[1] - this.movestats[1]) / (diam);
 			}
@@ -108,16 +108,15 @@ function Blob(r) {
 {
 	for(var j = 1; j < 0; j++) {
 		if(coordinates[0] == NULL) {
-		
+
 		}
 		else {
-		
+
 		}
 	}
 	append(coordinates[this.attributes[stratify]][x], this.movestats[0]);
 	append(coordinates[this.attributes[stratify]][y], this.movestats[1]);
 }
 {
-	
+	}
 */
-}
