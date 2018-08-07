@@ -1,0 +1,26 @@
+docs_list_title: Documentation
+docs:
+
+- title: David
+  url: /
+
+- title: Blair
+  url: /blair.html
+
+- title: Alex
+  url: /alex.html
+
+- title: Charles
+  url: /charles.html
+
+- title: Nicholas
+  url: /nicholas.html
+
+- title: John
+  url: /john.html
+
+- title: Trym
+  url: /trym.html
+
+- title: Michael
+  url: /michael.html
