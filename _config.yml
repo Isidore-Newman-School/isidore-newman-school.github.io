@@ -1,0 +1,22 @@
+url: http://isidore-newman-school.github.io
+baseurl:
+
+permalink: /courses/:year/:title:output_ext
+
+# Site settings
+title: Newman's Makerspace
+email: jdeboi@gmail.com
+description: Isidore Newman School's Makerspace- projects, curriculum, and more!
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: https://github.com/Isidore-Newman-School
+  - title: google
+    url: https://drive.google.com/open?id=11-2xhAX0eqpKD9BIt1vQTFQd2ofbV1bm
+  - title: vimeo
+    url: https://vimeo.com/user45659346
+
+
+# Build settings
+markdown: kramdown

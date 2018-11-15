@@ -1,0 +1,30 @@
+---
+
+---
+
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+
+<body id="page-top" class="index">
+  {% include nav.html %}
+  {% include jumbo.html %}
+
+
+
+  {{ content }}
+
+  {% include footer.html %}
+  {% include js.html %}
+
+  <!-- load custom scripts and stylesheets for specific pages -->
+  {% if page.custom_js %}
+  {% for js_file in page.custom_js %}
+  <script src='/js/{{ js_file }}.js' type="text/javascript"></script>
+  {% endfor %}
+  {% endif %}
+
+</body>
+</html>

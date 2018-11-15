@@ -1,0 +1,10 @@
+---
+title: Data Vis
+student: Kevin Qi
+semester: F2016
+tags: dataViz p5 javascript
+course: Creative Coding
+layout: course
+img: /img/projects/cc2016F/kevin_proj2.png
+link: /projects/cc2016F/proj2/kevin/index.html
+---

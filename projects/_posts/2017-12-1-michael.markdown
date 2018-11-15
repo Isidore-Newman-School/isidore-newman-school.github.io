@@ -1,0 +1,10 @@
+---
+title: Rotating Mirror
+student: Michael Karl
+tags: webCam p5 javascript interactive
+course: Creative Coding
+layout: course
+semester: F2017
+img: /img/projects/cc2017F/bundtcat.png
+link: https://isidore-newman-school.github.io/reflectionsNOMA/
+---

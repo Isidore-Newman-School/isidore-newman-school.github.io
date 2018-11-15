@@ -1,0 +1,10 @@
+---
+title: Election Tweets
+student: Michael Brown
+semester: F2016
+tags: dataViz p5 javascript
+course: Creative Coding
+layout: course
+img: /img/projects/cc2016F/michael_proj2.gif
+link: /projects/cc2016F/proj2/michael/index.html
+---

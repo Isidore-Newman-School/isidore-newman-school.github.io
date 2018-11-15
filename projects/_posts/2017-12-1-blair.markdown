@@ -1,0 +1,10 @@
+---
+title: Rotating Mirror
+student: Blair Bueche
+tags: webCam p5 javascript interactive
+course: Creative Coding
+layout: course
+semester: F2017
+img: /img/projects/cc2017F/blairmirror.png
+link: https://isidore-newman-school.github.io/reflectionsNOMA/
+---

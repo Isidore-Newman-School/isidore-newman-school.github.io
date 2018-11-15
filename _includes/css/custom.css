@@ -1,0 +1,60 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
+
+
+body {
+  overflow-x: hidden;
+  font-family: "Monospace", "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 16px;
+}
+
+p {
+  color: black;
+}
+
+footer {
+  padding: 100px 0 50px 0;
+}
+
+.social-buttons {
+  float: right;
+  font-size: 25px;
+}
+
+.vimeo-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  pointer-events: none;
+  overflow: hidden;
+}
+.vimeo-wrapper iframe {
+  width: 100vw;
+  height: 56.25vw; /* Given a 16:9 aspect ratio, 9/16*100 = 56.25 */
+  min-height: 100vh;
+  min-width: 177.77vh; /* Given a 16:9 aspect ratio, 16/9*100 = 177.77 */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+.portpic {
+  height:200px;
+  width:200px;
+}
+.img-center {
+  margin: 0 auto;
+}
+
+#ccLic {
+  font-size:150%;
+
+}
+
+.navbar-right {
+  margin-right:10px;
+}

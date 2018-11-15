@@ -1,0 +1,27 @@
+---
+title: 3D Art and Design
+galleryid: projects3d
+layout: course
+syllabus: https://docs.google.com/document/d/1_kzi7bw28xXFvDlTxW4ByZLIE32cYJPhxdBZyvlQjzM/edit?usp=sharing
+img: 3d/gates/gates.gif
+description: 3D Art and Design employs engineering and design thinking mindsets in the development of 3D modeling projects that expose students architecture, product development, and socially-conscious design. Students solve engineering challenges by developing 3D models and physical prototypes using Computer Aided Design (CAD) software and 3D printers.
+links: <a href="https://docs.google.com/document/d/1_kzi7bw28xXFvDlTxW4ByZLIE32cYJPhxdBZyvlQjzM/edit?usp=sharing">Syllabus</a><br>
+---
+
+{::options parse_block_html="true" /}
+{% for project in site.data.projects3d %}
+
+<div class="clearfix headerText">
+<div class="col-md-3 gallery">
+[![alt text]({{ project.imagefolder }}/{{ project.images[0].thumb }}){:.img-responsive}]({{ project.imagefolder }}/{{ image.name }})
+</div>
+<div class="col-md-9">
+<h4>[{{project.title}}]({{project.url}})</h4>
+<p>{{project.description}}</p>
+</div>
+</div>
+<hr>
+{% endfor %}
+
+
+{::options parse_block_html="false" /}

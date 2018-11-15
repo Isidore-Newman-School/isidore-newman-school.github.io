@@ -1,0 +1,10 @@
+---
+title: Galaga
+student: Blair Bueche
+tags: p5 javascript interactive
+course: Creative Coding
+semester: F2017
+layout: course
+img: /img/projects/cc2017F/blair.png
+link: https://isidore-newman-school.github.io/projects/cc2017F/blair/project1/game.html
+---

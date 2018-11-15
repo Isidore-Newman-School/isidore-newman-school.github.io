@@ -1,0 +1,10 @@
+---
+title: Tower Defense
+semester: F2016
+student: Beau Vandenburgh
+tags: p5 javascript interactive
+course: Creative Coding
+layout: course
+img: /img/projects/cc2016F/beau_proj1.png
+link: /projects/cc2016F/proj1/beau/index.html
+---

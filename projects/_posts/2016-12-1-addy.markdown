@@ -1,0 +1,10 @@
+---
+title: Shark Death
+student: Addy Grace Rome
+tags: VR p5 javascript
+semester: F2016
+course: Creative Coding
+layout: course
+img: /img/projects/cc2016F/addy_proj3.png
+link: https://addyrome.github.io/project3/index.html
+---

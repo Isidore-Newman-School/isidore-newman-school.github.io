@@ -1,0 +1,10 @@
+---
+title: Song BPM
+student: Camille Patton
+semester: F2016
+tags: dataViz p5 javascript
+course: Creative Coding
+layout: course
+img: /img/projects/cc2016F/camille_proj2.png
+link: /projects/cc2016F/proj2/camille/index.html
+---

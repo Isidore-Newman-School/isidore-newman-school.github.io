@@ -1,0 +1,92 @@
+- id: scanning
+  title: 3D Scanning Modern Sculpture
+  url: https://docs.google.com/document/d/1QvfLgdtMaIvuFgP9xU15yvdv6KLQK3QJxML77_AApuI/edit?usp=sharing
+  description: This project used 3D scanning and 3D modeling to explore Neoclassical sculpture, Rodin, and the birth of modern sculpture.
+  imagefolder: /img/courses/3d/scanning
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+  - name: 2.png
+    thumb: 2.png
+  - name: 3.png
+    thumb: 3.png
+  - name: 4.png
+    thumb: 4.png
+- id: cubism
+  title: OpenSCAD Cubism
+  url: https://docs.google.com/document/d/1shxc7g1EblWox8eb_VJROxmQYoLqba-Ssdm4JSGTfSg/edit?usp=sharing
+  description: This project introduced Cubism through the open source 3D modeling programming language OpenSCAD. Students explored space, shapes, and perspective as they created cubist-inspired 3D modeled self-portraits.
+  imagefolder: /img/courses/3d/cubism
+  images:
+  - name: 1.png
+    thumb: 1.png
+  - name: 2.png
+    thumb: 2.png
+- id: contemporary
+  title: Contemporary CAD
+  url: https://docs.google.com/document/d/1ZWcMg5jMMcotOOjc7F1ddy82jWLroXh9vaJukrVWU_8/edit?usp=sharing
+  description: An open-ended exploration of contemporary sculpture
+  imagefolder: /img/courses/3d/contemporary
+  images:
+    - name: 1.png
+      thumb: 1.png
+    - name: 2.png
+      thumb: 2.png
+    - name: 5.png
+      thumb: 5.png
+    - name: 6.png
+      thumb: 6.png
+- id: gates
+  title: Kinectic Gates
+  url: https://docs.google.com/document/d/1mQuDV7qShv02gbOACbgRr1J9ejoK_E0Bu6goPK-tgoA/edit
+  description: Students designed kinetic gates inspired by the New Orleans sculptor John Scott.
+  imagefolder: /img/courses/3d/gates
+  images:
+    - name: 1.jpg
+      thumb: 1.jpg
+    - name: 2.png
+      thumb: 2.png
+    - name: 3.png
+      thumb: 3.png
+    - name: 4.png
+      thumb: 4.png
+- id: science
+  title: Design Thinking Science Building
+  url: https://docs.google.com/document/d/1Yso5m2UwBxqudY6AYHCUDaFBs-H0L5lkyRk2bCSPtUE/edit?usp=sharing
+  description: Students used human-centered design in the creation of 3D models of Newman's new science building. Their designs incorporated feedback from students, faculty, staff, and other members of Newman's community.
+  imagefolder: /img/courses/3d/science
+  images:
+    - name: 1.jpg
+      thumb: 1.jpg
+- id: tinyhouses
+  title: Design Thinking Tiny Houses
+  url: https://docs.google.com/document/d/1hA01FXI9nNjC7NJ-iKfRISnWXyNZdlQKMYyN603r_D0/edit?usp=sharing
+  description: Students designed and modeled sustainable, off-the-grid tiny houses based on user needs and sustainability requirements.
+  imagefolder: /img/courses/3d/tinyhouses
+  images:
+  - name: 1.png
+    thumb: 1.png
+- id: 3dboats
+  title: Engineering 3D Moat Boats
+  url: https://docs.google.com/document/d/14lo67nhny1Jq809Hx6cQAQWKEOnYSYkvsB6YSizSN5k/edit?usp=sharing
+  description: 3D modeled boats inspired by Moat Boat Paddle Battle (http://www.moatboatpaddlebattle.com/)
+  imagefolder: /img/courses/3d/boats
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+- id: masks
+  title: Transformation Masks
+  url: https://docs.google.com/document/d/1q_-Yg95Sykwd_TAxIUQrloQo465MbeCgV-FCp78s3Z4/edit?usp=sharing
+  description: Students designed, modeled, and 3D printed “transformation masks” (originating from the Canadian Kwakiutl) that fit onto small, 3D scanned figurines.
+  imagefolder: /img/courses/3d/masks
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+- id: monuments
+  title: Modeling Monuments
+  url: https://docs.google.com/document/d/1Bj_CqrYWLPsMcWn45xczElUoYfftg_PkMFWuuCnPGus/edit
+  description: Students envisioned and designed new monuments to replaced the Confederate monuments that have been taken down in New Orleans.
+  imagefolder: /img/courses/3d/monuments
+  images:
+  - name: 1.png
+    thumb: 1.png

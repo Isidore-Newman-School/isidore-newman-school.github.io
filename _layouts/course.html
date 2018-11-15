@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+
+<body id="page-top" class="index">
+
+  {% include nav.html %}
+  {% include jumbo.html %}
+
+  <div class="container" id="post_content">
+    <!-- <div class="headerText">
+      <h2>{{ page.title }}<span style="font-size:50%"> [<a href="{{ page.syllabus }}">Syllabus</a>] </span></h2>
+      <p>{{ page.description }}</p>
+    </div> -->
+    <div class="topDiv">
+      {{ content }}
+    </div>
+  </div>
+  {% include footer.html %}
+  {% include js.html %}
+</body>
+</html>

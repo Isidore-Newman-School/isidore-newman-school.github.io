@@ -1,0 +1,36 @@
+- id: p5js
+  title: Interactivity with p5.js
+  url: https://docs.google.com/document/d/1P8tiEJCOmg4Cgbn1y6huGIu0cjROlwl6HSlbXuhokEY/edit?usp=sharing
+  description: Students demonstrate proficiency with JavaScript fundamentals and the p5.js library by developing interactive, creative projects.
+  imagefolder: /img/courses/creativecoding
+  projectUrl: /courses/creative/p5interactive.html
+  images:
+  - name: interactive.png
+    thumb: interactive.png
+- id: data
+  title: Data Visualization
+  url: https://docs.google.com/document/d/1yHJoz521669e2P4QrQ3_7-pD8CGFCIdkiT_yOGcjzu8/edit?usp=sharing
+  projectUrl: https://isidore-newman-school.github.io/cc2016F.html
+  description: Students create D3.js data visualizations on the web using personally-relevant data sets.
+  imagefolder: /img/courses/creativecoding
+  images:
+  - name: data.png
+    thumb: data.png
+- id: vr
+  title: Virtual Reality
+  url: https://drive.google.com/open?id=1o4eMiBFTdIhHGBBUaIM288oD12SuMUVfGxvL2hGUSh4
+  description: Using three.js, students build VR scenes on the web to use with Google Cardboard.
+  imagefolder: /img/courses/creativecoding
+  projectUrl: https://isidore-newman-school.github.io/cc2016F.html
+  images:
+  - name: vr.png
+    thumb: vr.png
+- id: reflection
+  title: Digital Reflections
+  url: https://docs.google.com/document/d/1Xmxxaa6ZQ9tiqw2H-OUXEX1IbI76WnQ2xwzbzU_QRdg/edit?usp=sharing
+  projectUrl: https://isidore-newman-school.github.io/reflectionsNOMA/
+  description: New Orleans Museum of Art (NOMA) partnered with Newman to curate artwork under the theme, “Reflections.”  In this project, students used p5.js and web cameras to create algorithmic, “digital reflections” by manipulating pixel video data with code. <br><a href="https://isidore-newman-school.github.io/reflectionsNOMA/">Examples</a>
+  imagefolder: /img/courses/creativecoding
+  images:
+  - name: reflection.png
+    thumb: reflection.png

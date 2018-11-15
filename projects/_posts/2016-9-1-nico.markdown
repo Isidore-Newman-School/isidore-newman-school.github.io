@@ -1,0 +1,10 @@
+---
+title: Mr. Prescott
+student: Nico Salas
+semester: F2016
+tags: p5 javascript interactive
+course: Creative Coding
+layout: course
+img: /img/projects/cc2016F/nico_proj1.png
+link: /projects/cc2016F/proj1/nico/index.html
+---

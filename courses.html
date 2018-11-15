@@ -1,0 +1,22 @@
+---
+layout: default
+title: Makerspace Courses
+links: Please feel free to edit, modify, improve, remix, etc. all of the curriculum and projects. If you have any feedback or would like to be granted editing privileges to the Google Docs, please email jdeboi at gmail. Thanks!<br><br><a href="https://drive.google.com/drive/folders/11-2xhAX0eqpKD9BIt1vQTFQd2ofbV1bm?usp=sharing">Google Drive</a>
+---
+
+<div id="teaching" class="topDiv">
+  <div class="container">
+    {% for post in site.categories['courses'] %}
+    <div class="row">
+      <div class="col-sm-3">
+        <img src="/img/courses/{{post.img}}" class="img-responsive" />
+      </div>
+      <div class="col-sm-9">
+        <h2><a href="{{post.url}}">{{post.title}}</a></h2>
+        <p>{{post.description}}</p>
+      </div>
+    </div>
+    <hr>
+    {% endfor %}
+  </div>
+</div>

@@ -1,0 +1,48 @@
+- id: music
+  title: Electronic Music Instruments
+  imagefolder: /img/courses/arduino/music
+  url: https://docs.google.com/document/d/1c7Rh7ETmytvWib4W_gXaz9d52rDL6GdKTzk_sAVGgXQ/edit?usp=sharing
+  description: Students developed Arduino-controlled electronic music instruments using a variety of sensors and electronic components.
+  images:
+  - name: 1.png
+    thumb: 1.png
+- id: arcade
+  title: Arcade Games
+  imagefolder: /img/courses/arduino/arcade
+  url: https://docs.google.com/document/d/1nM9ZnWqP0MMoxMqfNHE6gjASCJSvBve71_Hm_Gh6IEY/edit?usp=sharing
+  description: Students used Arduinos to develop interactive arcade games (claw machine, skeeball machine, etc.)
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+- id: athletics
+  title: Improving the Newman Athletics Experience
+  imagefolder: /img/courses/arduino/athletics
+  url: https://docs.google.com/document/d/14oWs9L0ecAG_u2S7AloAGj2ghua9z5c004FOCbAUk_A/edit?usp=sharing
+  description: Students developed Arduino solutions (e.g. LED field goal posts that light up when the ball goes through, speedometers, etc.) to improve the Newman athletics experience.
+  images:
+  - name: 1.png
+    thumb: 1.png
+- id: digger
+  title: Ground Breaking Robot
+  imagefolder: /img/courses/arduino/digger
+  url: https://vimeo.com/216841617
+  description: Students built and programmed an Arduino-controlled (FRC base kit) robot capable of breaking ground for the new science building.
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+- id: olympics
+  title: RobOlympics
+  imagefolder: /img/courses/arduino/olympics
+  url: https://docs.google.com/document/d/12maBxhfZT-B-B0wNa0olTygVRJZ8jZhqmhmbGiYQLwg/edit?usp=sharing
+  description: Students designed and programmed an Arduino-controlled robots to compete in a variety of challenges.
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+- id: escape
+  title: Escape Room
+  imagefolder: /img/courses/arduino/escape
+  url: https://docs.google.com/document/d/1VfmkMmFZoReWJKBzBLiwPPK-qbaorg-8S73MFbDhMTg/edit?usp=sharing
+  description: Students developed a series of Arduino-controlled puzzles for their peers to attempt to escape from the makerspace!
+  images:
+  - name: 1.png
+    thumb: 1.png
