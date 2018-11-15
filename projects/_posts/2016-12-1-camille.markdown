@@ -4,6 +4,7 @@ student: Camille Patton
 tags: VR p5 javascript
 course: Creative Coding
 semester: F2016
+courseId: cc2016F
 layout: course
 img: /img/projects/cc2016F/camille_proj3.png
 link: https://camillepatton19.github.io/vr_falling_example/index.html

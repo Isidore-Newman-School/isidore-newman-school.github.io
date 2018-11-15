@@ -1,6 +1,7 @@
 ---
 title: Mola to the Max
 semester: F2016
+courseId: cc2016F
 student: Addy Grace Rome
 tags: p5 javascript interactive
 course: Creative Coding

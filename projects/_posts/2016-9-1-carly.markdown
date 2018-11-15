@@ -2,6 +2,7 @@
 title: Duckies
 student: Carly Breaux
 semester: F2016
+courseId: cc2016F
 tags: p5 javascript interactive
 course: Creative Coding
 layout: course

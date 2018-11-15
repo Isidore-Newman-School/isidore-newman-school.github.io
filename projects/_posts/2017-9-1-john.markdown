@@ -5,6 +5,7 @@ tags: p5 javascript interactive
 course: Creative Coding
 layout: course
 semester: F2017
+courseId: cc2017F
 img: /img/projects/cc2017F/checkers.png
 link: https://johngainey.github.io/4PlayerCheckers/4PC.html
 ---

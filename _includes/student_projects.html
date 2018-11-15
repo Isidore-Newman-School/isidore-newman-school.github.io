@@ -2,6 +2,7 @@
 <div id="portfolio" class="topDiv">
   <div class="container">
     <div class="row">
+      {% if page.courseId == "all" %}
       {% for post in site.categories['projects'] %}
       <div class="col-lg-4 col-sm-6 text-center">
         <a href="{{ post.link }}" class="portfolio-link" data-toggle="modal">
@@ -14,6 +15,23 @@
         </a>
       </div>
       {% endfor %}
+      {% else %}
+      {% for post in site.categories['projects'] %}
+      {% if post.courseId == page.courseId %}
+      <div class="col-lg-4 col-sm-6 text-center">
+        <a href="{{ post.link }}" class="portfolio-link" data-toggle="modal">
+          <img src="{{ post.img }}" class="img-circle portpic img-responsive img-center" alt="">
+          <div class="portfolio-hover-content">
+            <h4>{{ post.title }}</h4>
+            <p>{{ post.student }}</p>
+            <p>{{ post.course }} {{ post.semester }}</p>
+          </div>
+        </a>
+      </div>
+
+      {% endif %}
+      {% endfor %}
+      {% endif %}
     </div>
   </div>
 </div>

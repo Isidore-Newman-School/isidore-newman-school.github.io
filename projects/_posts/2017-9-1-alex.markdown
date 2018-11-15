@@ -5,6 +5,7 @@ tags: p5 javascript interactive
 course: Creative Coding
 semester: F2017
 layout: course
+courseId: cc2017F
 img: /img/projects/cc2017F/strike.png
 link: https://alucab1.github.io/game.html
 ---

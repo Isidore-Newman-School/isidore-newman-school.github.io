@@ -2,6 +2,7 @@
 title: Face Detect
 student: Michael Brown
 semester: F2016
+courseId: cc2016F
 tags: p5 javascript interactive
 course: Creative Coding
 layout: course

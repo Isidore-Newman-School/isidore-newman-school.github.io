@@ -2,6 +2,7 @@
 title: Election Tweets
 student: Michael Brown
 semester: F2016
+courseId: cc2016F
 tags: dataViz p5 javascript
 course: Creative Coding
 layout: course

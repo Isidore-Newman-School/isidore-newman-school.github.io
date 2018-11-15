@@ -1,6 +1,7 @@
 ---
 title: Spiders
 semester: F2016
+courseId: cc2016F
 student: Camille Patton
 tags: p5 javascript interactive
 course: Creative Coding

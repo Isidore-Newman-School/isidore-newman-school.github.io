@@ -13,6 +13,16 @@
     <div class="container">
       <h1>{{page.title}}</h1>
       <p>{{page.description}}</p>
+      <div class="dropdown">
+        <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+          Select Course
+          <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+          <li><a href="/projects/cc2016F/index.html">Creative Coding 2016</a></li>
+          <li><a href="/projects/cc2017F/index.html">Creative Coding 2017</a></li>
+        </ul>
+      </div>
     </div>
   </div>
 
@@ -20,11 +30,11 @@
 
 
   <div class="container" id="post_content">
-  <div class="topDiv">
-    {{ content }}
+    <div class="topDiv">
+      {{ content }}
+    </div>
   </div>
-</div>
-{% include footer.html %}
-{% include js.html %}
+  {% include footer.html %}
+  {% include js.html %}
 </body>
 </html>
